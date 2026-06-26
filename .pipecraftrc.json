@@ -10,7 +10,7 @@
   ],
   "autoPromote": true,
   "actionSourceMode": "remote",
-  "actionVersion": "v0.43.0",
+  "actionVersion": "v0.43.1",
   "semver": {
     "bumpRules": {
       "feat": "minor",
