@@ -1,0 +1,8 @@
+{
+  "name": "pipecraft-example-remote",
+  "version": "0.1.0",
+  "description": "Remote-action-mode example: references published the-craftlab/pipecraft marketplace actions",
+  "type": "module",
+  "scripts": { "test": "node test/index.test.js", "build": "node -e \"console.log('built')\"" },
+  "license": "MIT"
+}
